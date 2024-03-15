@@ -1,19 +1,26 @@
-# Duelingbook lightmode minimal
-<img width="1553" alt="preview" src="https://raw.githubusercontent.com/ahlayer8tech/duelingbook-dark-minimal/main/db-dark-minimal-lightmode-duel-example-screenshot.PNG">
+# Duelingbook Light Minimal Theme
 
-## Changes to QuotedTF default settings
+## Preview Images
+<img width="1553" alt="preview" src="https://raw.githubusercontent.com/ahlayer8tech/duelingbook-dark-minimal/main/db-dark-minimal-lightmode-duel-room-screenshot.PNG">
+
+<img width="1553" alt="preview" src="https://raw.githubusercontent.com/ahlayer8tech/duelingbook-dark-minimal/main/db-dark-minimal-lightmode-deck-constructor-screenshot.PNG">
+
+
+## List of changes made to QuotedTF default settings
  * removed login screen images (used too much bandwidth)
  * changed text box background color(--bg-color) to white
  * changed text color(--text-color) to black
  * changed drop down background selector color to white
- * removed field zone overlay images
+ * removed duel room field zone overlay images
  * changed font of deck builder to Roboto
  * changed font of field section buttons to Roboto
 
 ## To Do List
- * change duel room card activation text boxes and text to lightmode (white background box and black text)
+ * ~~change duel room card activation text boxes and text to lightmode (white background box and black text)~~
  * change background color of rankings list to lightmode (white background)
 
+&nbsp;
+&nbsp;
 
 # README.md from duelingbook-dark-minimal by QuotedTF
 Found at https://github.com/QuotedTF/duelingbook-dark-minimal
@@ -67,7 +74,9 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * ~~Sword replacement graphic~~
 
-## Credits
+ * ~~Deck Constructor layout fix~~
+
+# Credits
  * <a href="https://github.com/QuotedTF">QuotedTF</a> for the current repo and <a href="https://github.com/QuotedTF/duelingbook-dark-minimal">project</a>
  
  * <a href="https://github.com/mykesXD">mykesXD</a> for the initial repo and <a href="https://github.com/mykesXD/Duelingbook-Dark-Mode">project</a>
